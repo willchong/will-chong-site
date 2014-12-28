@@ -1,0 +1,13 @@
+Options +FollowSymLinks
+RewriteEngine On
+
+
+RewriteRule ^work/volkswagen(/|)$ 					http://willchong.com/work.php?project=vw [R=301,L]
+RewriteRule ^work/keiths(/|)$ 						http://willchong.com/work.php?project=keiths [R=301,L]
+RewriteRule ^work/drake-general-store(/|)$ 			http://willchong.com/work.php?project=drake-general-store [R=301,L]
+RewriteRule ^work/pet-trust(/|)$ 					http://willchong.com/work.php?project=pet-trust [R=301,L]
+RewriteRule ^work/powerhouse(/|)$ 					http://willchong.com/work.php?project=powerhouse-logo [R=301,L]
+RewriteRule ^work/vw-touchscreen(/|)$ 				http://willchong.com/work.php?project=vw-touchscreen [R=301,L]
+RewriteRule ^work/bento-sushi(/|)$ 					http://willchong.com/work.php?project=bento-sushi [R=301,L]
+RewriteRule ^work/type-books(/|)$ 					http://willchong.com/work.php?project=type-books [R=301,L]
+RewriteRule ^work/bessies(/|)$ 						http://willchong.com/work.php?project=bessies [R=301,L]
