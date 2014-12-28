@@ -5,15 +5,15 @@
       <div class="row" id="work">
         <h1 class="section-title">Work</h1>
         <div class="item-container">
-          <a href="work.php?project=vw"><div class="item vw"><p>Volkswagen.ca</p></div></a>
-          <a href="work.php?project=keiths"><div class="item keiths"><p>Keiths.ca</p></div></a>
-          <a href="work.php?project=drake-general-store"><div class="item drake-general"><p>Drake General Store</p></div></a>
-          <a href="work.php?project=pet-trust"><div class="item pet-trust"><p>Pet Trust</p></div></a>
-          <a href="work.php?project=powerhouse-logo"><div class="item powerhouse"><p>Powerhouse</p></div></a>
-          <a href="work.php?project=vw-touchscreen"><div class="item touchscreen"><p>Vw Touchscreen</p></div></a>
-          <a class="toggle-hide not-visible" href="work.php?project=bento-sushi"><div class="item bento"><p>Bento Sushi</p></div></a>
-          <a class="toggle-hide not-visible" href="work.php?project=type-books"><div class="item type-books"><p>Type Books</p></div></a>
-          <a class="toggle-hide not-visible" href="work.php?project=bessies"><div class="item bessies"><p>Bessies 2012</p></div></a>
+          <a href="http://willchong.com/work/volkswagen"><div class="item vw"><p>Volkswagen.ca</p></div></a>
+          <a href="http://willchong.com/work/keiths"><div class="item keiths"><p>Keiths.ca</p></div></a>
+          <a href="http://willchong.com/work/drake-general-store"><div class="item drake-general"><p>Drake General Store</p></div></a>
+          <a href="http://willchong.com/work/pet-trust"><div class="item pet-trust"><p>Pet Trust</p></div></a>
+          <a href="http://willchong.com/work/powerhouse"><div class="item powerhouse"><p>Powerhouse</p></div></a>
+          <a href="http://willchong.com/work/vw-touchscreen"><div class="item touchscreen"><p>Vw Touchscreen</p></div></a>
+          <a class="toggle-hide not-visible" href="http://willchong.com/work/bento-sushi"><div class="item bento"><p>Bento Sushi</p></div></a>
+          <a class="toggle-hide not-visible" href="http://willchong.com/work/type-books"><div class="item type-books"><p>Type Books</p></div></a>
+          <a class="toggle-hide not-visible" href="http://willchong.com/work/bessies"><div class="item bessies"><p>Bessies 2012</p></div></a>
         </div>
         <h3 class="see-more">See More <span class="glyphicon glyphicon-plus"></span></h3>
       </div>
